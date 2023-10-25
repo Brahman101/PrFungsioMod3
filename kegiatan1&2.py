@@ -1,3 +1,4 @@
+# kegiatan 1
 data = [
     "3 minggu 3 hari 7 jam 21 menit",
     "5 minggu 5 hari 8 jam 11 menit",
@@ -38,6 +39,7 @@ for item in data:
 
     print(f"{item}, konversi : {konvert}")
 
+# kegiatan 2
 result = []
 
 for item in data:
